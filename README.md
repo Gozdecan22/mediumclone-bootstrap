@@ -1,0 +1,2 @@
+# mediumclone-bootstrap
+patika.dev
